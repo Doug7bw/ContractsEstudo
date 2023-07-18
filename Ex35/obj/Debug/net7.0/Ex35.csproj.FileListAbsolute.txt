@@ -1,0 +1,15 @@
+C:\Users\brasi\Desktop\estudos\cursoC\exercicios\Ex35\bin\Debug\net7.0\Ex35.exe
+C:\Users\brasi\Desktop\estudos\cursoC\exercicios\Ex35\bin\Debug\net7.0\Ex35.deps.json
+C:\Users\brasi\Desktop\estudos\cursoC\exercicios\Ex35\bin\Debug\net7.0\Ex35.runtimeconfig.json
+C:\Users\brasi\Desktop\estudos\cursoC\exercicios\Ex35\bin\Debug\net7.0\Ex35.dll
+C:\Users\brasi\Desktop\estudos\cursoC\exercicios\Ex35\bin\Debug\net7.0\Ex35.pdb
+C:\Users\brasi\Desktop\estudos\cursoC\exercicios\Ex35\obj\Debug\net7.0\Ex35.csproj.AssemblyReference.cache
+C:\Users\brasi\Desktop\estudos\cursoC\exercicios\Ex35\obj\Debug\net7.0\Ex35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brasi\Desktop\estudos\cursoC\exercicios\Ex35\obj\Debug\net7.0\Ex35.AssemblyInfoInputs.cache
+C:\Users\brasi\Desktop\estudos\cursoC\exercicios\Ex35\obj\Debug\net7.0\Ex35.AssemblyInfo.cs
+C:\Users\brasi\Desktop\estudos\cursoC\exercicios\Ex35\obj\Debug\net7.0\Ex35.csproj.CoreCompileInputs.cache
+C:\Users\brasi\Desktop\estudos\cursoC\exercicios\Ex35\obj\Debug\net7.0\Ex35.dll
+C:\Users\brasi\Desktop\estudos\cursoC\exercicios\Ex35\obj\Debug\net7.0\refint\Ex35.dll
+C:\Users\brasi\Desktop\estudos\cursoC\exercicios\Ex35\obj\Debug\net7.0\Ex35.pdb
+C:\Users\brasi\Desktop\estudos\cursoC\exercicios\Ex35\obj\Debug\net7.0\Ex35.genruntimeconfig.cache
+C:\Users\brasi\Desktop\estudos\cursoC\exercicios\Ex35\obj\Debug\net7.0\ref\Ex35.dll
