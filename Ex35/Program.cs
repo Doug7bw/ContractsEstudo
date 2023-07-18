@@ -51,6 +51,9 @@ namespace Ex35
             {
                 Console.WriteLine(contract);
             }
+
+            Console.Write($"\nAverage wage: {averageWage.ToString("F2", CultureInfo.InvariantCulture)}");
+            Console.Write($"Highest salary: {highestSalary.ToString("F2", CultureInfo.InvariantCulture)}")
         }   
     }
 }
